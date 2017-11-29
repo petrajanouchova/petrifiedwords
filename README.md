@@ -1,2 +1,2 @@
 # petrifiedwords
-Petra's blog 
+Petra's research dedicated website
