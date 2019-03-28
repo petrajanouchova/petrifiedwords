@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "About the site"
+title: "Petra's research on inscriptions"
 description: "This is the first page"
 header:
     image_fullwidth: "thumbnail.png"
