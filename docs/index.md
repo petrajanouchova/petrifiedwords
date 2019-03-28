@@ -4,7 +4,9 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to my Open Science Framework](https://osf.io/fjnw5/).
+[Link to other page on Github](./another-page.html).
+
 
 There should be whitespace between paragraphs.
 
