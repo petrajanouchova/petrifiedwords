@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About the site
-description: This is the first page
+title: "About the site"
+description: "This is the first page"
 ---
 
 Hello, world!
