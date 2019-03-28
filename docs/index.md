@@ -11,7 +11,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to my Open Science Framework](https://osf.io/fjnw5/).
 
-[Link to other page on Github](./another-page.html).
+[Link to other page on Github](./another-page.md).
 
 ![Thumbnail of Cayman](https://github.com/petrajanouchova/petrifiedvoices/blob/master/thumbnail.png)
 
