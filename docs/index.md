@@ -1,12 +1,23 @@
 ---
 layout: default
+title: About the site
+description: This is the first page
+---
+
+## Welcome to my page
+
+_yay_
+
+[back](./)
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to my Open Science Framework](https://osf.io/fjnw5/).
+
 [Link to other page on Github](./another-page.html).
 
+![Thumbnail of Cayman](thumbnail.png)
 
 There should be whitespace between paragraphs.
 
