@@ -2,6 +2,8 @@
 layout: default
 title: "About the site"
 description: "This is the first page"
+header:
+    image_fullwidth: "thumbnail.png"
 ---
 
 Hello, world!
