@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Petra's research on inscriptions"
+title: "Petrified voices"
 description: "This is the first page"
 header:
     image_fullwidth: "thumbnail.png"
