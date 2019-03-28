@@ -1,14 +1,10 @@
 ---
-layout: default
+layout: default.html
 title: About the site
 description: This is the first page
 ---
 
-## Welcome to my page
-
-_yay_
-
-[back](./)
+Hello, world!
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
