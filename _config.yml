@@ -1,11 +1,11 @@
 # Title of your website
-title: 'Petrified voices'
+title: Petrified voices
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Petra's research on quantitative digital epigraphy'
+slogan: Petra's research on quantitative digital epigraphy
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "Petra's personal research on why people created thousands written messages into stone and what are they telling about us"
+description: Petra's personal research on why people created thousands written messages into stone and what are they telling about us
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
