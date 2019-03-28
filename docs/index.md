@@ -13,7 +13,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to other page on Github](./another-page.html).
 
-![Thumbnail of Cayman](thumbnail.png)
+![Thumbnail of Cayman](https://github.com/petrajanouchova/petrifiedvoices/blob/master/thumbnail.png)
 
 There should be whitespace between paragraphs.
 
